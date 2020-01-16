@@ -1,0 +1,17 @@
+{
+  "name": "hudada-demo2",
+  "version": "0.0.9",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hudada-demo1": "^0.0.9",
+    "lodash": "^4.17.15"
+  },
+  "gitHead": "7c821629c099b37cec784899602de3a374c406f3"
+}
